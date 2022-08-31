@@ -9,11 +9,11 @@
 // • Rominaru
 // • Kannachann
 // • The.Sad.Boy01
-// • Rasel comel
+// • Rasel comel.       
 // • Xtreshe (Beban)
 // • Dll
 
-//[!] Jangan Dihapus, mending ditambahin 
+//[!] Jangan Dihapus, mending ditambahin         
 
 import { watchFile, unwatchFile } from 'fs'
 import chalk from 'chalk'
@@ -42,7 +42,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
     
 /*============== SOCIAL ==============*/
-
+botv2/config.js
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
 global.sig = 'https://www.instagram.com/kontol_elite'
 global.sgh = 'https://github.com/Jikarinka'
@@ -67,8 +67,8 @@ global.nameown = 'DitzGans:v'
 
 /*============== STAFF ==============*/
 global.owner = [
-  [ '6281585328096' ],
-  [ '6285716583868],
+  [ '6281585328096'],
+  [ '6285716583868'],
   ['18126338970'],
   ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
   // [number, dia creator/owner?, dia developer?]
