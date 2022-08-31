@@ -54,21 +54,21 @@ global.snh = 'https://nhentai.net/g/365296/'
 global.pdana = '085334930628'
 global.povo = '085712420674'
 global.pgopay = '085712420674'
-global.ppulsa = '085334930628'
-global.ppulsa2 = '081336990781'
+global.ppulsa = '081585328096'
+global.ppulsa2 = '085716583868'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281336990781'
-global.nomorown = '6285334930628'
-global.namebot = 'Kanna BOT'
-global.nameown = 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ'
+global.nomorbot = '6281585328096'
+global.nomorown = '6285716583868'
+global.namebot = 'CIPENGX BOTZ'
+global.nameown = 'DitzGans:v'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285334930628'],
-  ['6285334930628'],
+  [ '6281585328096' ],
+  [ '6285716583868],
   ['18126338970'],
   ['6285334930628', 'ᴠᴀɴᴇꜱꜱᴀ-ᴅᴇꜱᴜ', true]
   // [number, dia creator/owner?, dia developer?]
